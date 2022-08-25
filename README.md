@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chakron.
 - 👀 I’m interested in Python, MATLAB, C++, Javascript, Kotlin.
-- 🌱 I’m currently ..
-- 💞️ I’m looking to collaborate on data sci, 
+- 🌱 I’m currently developing machine learning application.
+- 💞️ I’m looking to collaborate on data sci, structural engineering.
 - 📫 How to reach me my github.
 
 <!---
